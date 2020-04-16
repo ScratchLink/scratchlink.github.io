@@ -1,18 +1,10 @@
 * {
   margin: 0;
+  font-family: 'Numans';
 }
-#main {
-   margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-#top {
-  font-size: 75px;
-  display: block;
-}
-#bottom {
-  font-size: 100px;
-  display: block;
+#left {
+  display: inline;
+  background-color: #000000;
+#right {
+  display: inline;
 }
