@@ -2,9 +2,10 @@
   margin: 0;
   font-family: 'Numans';
 }
-#left {
+.left {
   display: inline;
-  background-color: #000000;
-#right {
+  background-color: #6a73ff;
+}
+.right {
   display: inline;
 }
